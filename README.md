@@ -2,15 +2,15 @@
 
 COMPANY:CODTECH IT SOLUTIONS
 
-NAME:SHRUTIKA
+NAME: SHRUTIKA
 
-INTERN ID:CTIS3694
+INTERN ID: CTIS3694
 
 DOMAIN: Embedded Systems
 
-DURATION:4 WEEKS
+DURATION: 4 WEEKS
 
-MENTOR:Neela Santhosh
+MENTOR: Neela Santhosh
 
 DESCRIPTION:
 
@@ -46,3 +46,4 @@ Accessibility for Elderly and Disabled People
 Home automation provides independence to individuals with mobility challenges.
 They can control appliances without physically reaching switches.
 OUTPUT
+<img width="1895" height="1008" alt="Image" src="https://github.com/user-attachments/assets/02dad0a6-f3c3-43a6-a967-607d35908b51" />
