@@ -45,5 +45,8 @@ For example, lights can be programmed to turn off automatically when not needed.
 Accessibility for Elderly and Disabled People
 Home automation provides independence to individuals with mobility challenges.
 They can control appliances without physically reaching switches.
+
 OUTPUT
+
+
 <img width="1895" height="1008" alt="Image" src="https://github.com/user-attachments/assets/02dad0a6-f3c3-43a6-a967-607d35908b51" />
